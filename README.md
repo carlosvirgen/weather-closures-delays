@@ -1,13 +1,8 @@
-# Demo: Datafeed to Datatables Configurable Table
 
 ## About
-A buggy attempt to use either [Tabletop.js](http://builtbybalance.com/Tabletop/) and a Google Spreadsheet to feed data to the [DataTables](http://datatables.net/) jQuery plugin, or use a flat JSON file. Some [additional configuration options](https://github.com/chrislkeller/datafeed_to_datatables#options) are available.
+A weather-related closures application uses [Tabletop.js](http://builtbybalance.com/Tabletop/) and a Google Spreadsheet to feed data to the [DataTables](http://datatables.net/) jQuery plugin, or use a flat JSON file. Some [additional configuration options](https://github.com/chrislkeller/datafeed_to_datatables#options) are available.
 
-This is a version of a demo by [Chris Essig](https://twitter.com/CourierEssig) &amp; [Chris Keller](https://twitter.com/ChrisLKeller) -- with kudos to [Jon Davenport](https://twitter.com/JonDavenport1) -- and made possible thanks to the Open Source work of [Built By Balance](http://builtbybalance.com) &amp; [Allan Jardine](https://github.com/DataTables).
-
-* [Demo Page](http://projects.chrislkeller.com/demos/datafeed_to_datatables)
-* [Repo](https://github.com/chrislkeller/datafeed_to_datatables)
-* [ReadMe](https://github.com/chrislkeller/datafeed_to_datatables#readme)
+I used Chris Keller's [Datafeed-to-Datatables](https://github.com/chrislkeller/datafeed_to_datatables) code. This example uses a Google Form feeding into a Google Spreadsheet that then gets pulled in.
 
 ## Setup
 
